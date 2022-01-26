@@ -1,0 +1,6 @@
+usr/local/bin/luckycoinoro-qt usr/bin
+share/pixmaps/luckycoinoro32.xpm usr/share/pixmaps
+share/pixmaps/luckycoinoro16.xpm usr/share/pixmaps
+share/pixmaps/luckycoinoro128.png usr/share/pixmaps
+debian/luckycoinoro-qt.desktop usr/share/applications
+debian/luckycoinoro-qt.protocol usr/share/kde4/services/
